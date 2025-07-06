@@ -32,7 +32,7 @@ Whether you’re managing work assignments, personal goals, or daily chores, Per
 
 ## Live Demo
 
-[Link to deployed application]
+(https://task-tracker-eta-rouge.vercel.app)
 
 ## Screenshots
 
